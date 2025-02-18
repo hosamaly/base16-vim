@@ -9,7 +9,7 @@ Supports graphical Vim and console Vim.
 ## Terminal Themes
 For terminal Vim (non-gui) please ensure you are using a base16 terminal theme.
 
-* [iTerm2](base16-iterm2)
+* [iTerm2](https://github.com/chriskempson/base16-iterm2)
 
 ## Installation
 
